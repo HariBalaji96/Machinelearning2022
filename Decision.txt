@@ -1,0 +1,14 @@
+youth,high,no,fair,no
+youth,high,no,excellent,no
+midaged,high,no,fair,yes
+senior,medium,no,fair,yes
+senior,low,yes,fair,yes
+midaged,low,yes,excellent,yes
+senior,low,yes,excellent,no
+youth,medium,no,fair,no
+youth,low,yes,fair,yes
+senior,medium,yes,fair,yes
+youth,medium,yes,excellent,yes
+midaged,medium,no,excellent,yes
+midaged,high,yes,fair,yes
+senior,medium,no,excellent,no
