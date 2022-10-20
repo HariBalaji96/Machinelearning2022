@@ -7,6 +7,8 @@ for line in lines:
     st=line.split(",")
     indep.append(float(st[0]))
     dep.append(float(st[1]))
+dep=0
+
 print(indep)    
 print(dep)
 xrsum=0
@@ -32,4 +34,3 @@ print("G(",user,")=",w1*user+w0)
 fs=open("linear store.txt","a")
 for s in range(0,len(dep)):
     fs.write(str(G[s]))
-fs.close()
